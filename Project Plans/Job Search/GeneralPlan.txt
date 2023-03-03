@@ -1,0 +1,13 @@
+Week 1:
+  Implement Google Maps API and render real time map
+  Make sure markers can show up and become clickable
+
+  Implement Google sign in through Firebase
+
+Week 2:
+  Focus on CSS and make UI/UX smooth and accessible
+  
+Week 3:
+  Figure out any bugs
+  Implement tests
+  If time, implement [Nice to Haves]

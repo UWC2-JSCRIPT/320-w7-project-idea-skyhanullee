@@ -1,0 +1,8 @@
+Setup create-react-app boilerplate
+Create form to get user inputs on search terms and location
+Call Adzuna Job Search API and collect results
+Call Google Maps API and create map
+Store API results in React state and Firestore
+Render React state
+Render markers on map
+Save any saved results in Firestore per user

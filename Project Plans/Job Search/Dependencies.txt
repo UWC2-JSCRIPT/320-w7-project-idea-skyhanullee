@@ -1,0 +1,4 @@
+Adzuna Job Search API
+Google Maps API
+Firebase/Firestore
+react-router-dom

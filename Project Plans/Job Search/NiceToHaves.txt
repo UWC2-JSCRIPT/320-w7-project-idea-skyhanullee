@@ -1,0 +1,4 @@
+List of things to implement if there's time:
+  Use SCSS or Sass instead of vanilla CSS
+  Make mobile friendly
+  Real Estate data to show average housing costs in search area
